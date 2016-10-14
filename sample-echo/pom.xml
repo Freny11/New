@@ -1,7 +1,7 @@
 <project>
   <groupId>sample</groupId>
   <artifactId>sample-echo</artifactId>
-  <currentVersion>1.0-SNAPSHOT</currentVersion>
+  #<currentVersion>1.0-SNAPSHOT</currentVersion>
   <dependencies>
     <dependency>
       <groupId>log4j</groupId>
