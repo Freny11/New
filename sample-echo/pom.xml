@@ -1,10 +1,11 @@
-<project>
- <modelVersion>4.0.0</modelVersion>
- <name>Maven Default Project</name>
-
+<project xmlns="http://maven.apache.org/POM/3.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://maven.apache.org/POM/3.0.0 http://maven.apache.org/maven-v3_0_0.xsd">
+  <pomVersion>3</pomVersion>
   <groupId>sample</groupId>
   <artifactId>sample-echo</artifactId>
-  #<currentVersion>1.0-SNAPSHOT</currentVersion>
+  <name>Sample</name>
+  <currentVersion>1.0-SNAPSHOT</currentVersion>
+  <inceptionYear>2005</inceptionYear>
   <dependencies>
     <dependency>
       <groupId>log4j</groupId>
